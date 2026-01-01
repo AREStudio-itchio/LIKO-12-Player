@@ -12,3 +12,4 @@ Ahora, publica el juego comprimiéndolo en el formato que gustes.
 # Descargas
 Descargar [LÖVE](https://love2d.org/).
 Descargar [LIKO-12-Player](https://github.com/AREStudio-itchio/LIKO-12-Player/releases).
+[Descargas (itch.io)](https://arestudio.itch.io/liko-12-player)
