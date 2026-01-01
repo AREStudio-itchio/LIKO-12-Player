@@ -1,0 +1,7 @@
+{
+  "GamesKeymap": [ [ "left", "right", "up", "down", "z", "x", "c" ], [ "s", "f", "e", "d", "tab", "q", "w" ] ],
+  "TipOfTheDay": {
+    "date": "20260101",
+    "pos": 1
+  }
+}
